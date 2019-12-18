@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ThemeableDemo</string>
+
+    <string name="hw_oem">OEM: %s</string>
+    <string name="hw_model">Model: %s</string>
+    <string name="hw_android">Android: %s</string>
+    <string name="hw_apilevel">API Level: %s</string>
+    <string name="hw_screen_res">Screen Res: %sx%s</string>
+    <string name="hw_density">Density: %sdpi</string>
+    <string name="hw_cpu">CPU OEM: %s</string>
+</resources>
